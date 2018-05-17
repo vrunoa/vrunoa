@@ -1,0 +1,22 @@
+{
+  "name": "vrunoa",
+  "version": "0.0.1",
+  "description": "Bruno Alassia Contact Info",
+  "main": "index.js",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vrunoa/vrunoa.git"
+  },
+  "scripts": {
+    "test": "echo \"Tests? What are tests?\" && exit 0"
+  },
+  "keywords": [
+    "vrunoa",
+    "person",
+    "contact",
+    "vruno"    
+  ],
+  "author": "Bruno Alassia <vruno.alassia@gmail.com>",
+  "license": "Apache-2.0"
+}
